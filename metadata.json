@@ -1,0 +1,9 @@
+{
+  "name": "Raitha Bandhu",
+  "description": "A complete financial and livelihood support system for farmers, providing market prices, weather alerts, pest detection, and government scheme assistance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
